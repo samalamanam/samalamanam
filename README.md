@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pooperdoop&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=samalamanam&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
 </div>
 
 <br>
@@ -65,19 +65,19 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/pooperdoop?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Repositories%20-6600cc?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/samalamanam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-Repositories%20-6600cc?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <h2 align="center"></h2> 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pooperdoop&show_icons=true&theme=vision-friendly-dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=samalamanam&show_icons=true&theme=vision-friendly-dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pooperdoop&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=samalamanam&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=pooperdoop&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samalamanam&show_icons=true" />
 </picture>
