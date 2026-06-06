@@ -15,7 +15,7 @@
       <div align="left">
          <h3>🙋‍♂️ About Me</h3> <img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
         <br>
-        💀 College Graduate<br><br>🌙 Nightowl(trying to sleep earlier)<br><br>👾 Gamer<br><br>🤖 Computer Science Major<br><br>💪 Building
+        💀 College Graduate<br><br>🌙 Nightowl<br><br>👾 Gamer<br><br>🤖 Computer Science Major<br><br>💪 Building
       </div>
     </td>
     <td style=""border-collapse: collapse;">
